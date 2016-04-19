@@ -1,2 +1,2 @@
 # cadence
-Spare time activities
+Porting code snippets to cadence repo
